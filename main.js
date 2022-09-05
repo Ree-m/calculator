@@ -12,8 +12,10 @@ function putNumberInInput() {
     
     input.innerHTML=val
 
-    
-
+    // -----------
+// this is onclick
+// -------------
+// --------------
 
     
 }
